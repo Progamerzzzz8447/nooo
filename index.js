@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Moon Services","Watching Support Tickets"];
+const statusMessages = ["Watching ModMail","Watching Support"];
 
 
 let currentIndex = 0;
